@@ -1,0 +1,19 @@
+{
+  "name": "planckbotapi",
+  "version": "1.0.0",
+  "description": "Planck Bot Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Yash Gohel <yashgohel16@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "node-fetch": "^2.6.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
